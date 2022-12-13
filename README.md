@@ -10,6 +10,6 @@
 
 # Backjoon
 
-| 번호 |  문제  | 유형   |         난이도          |        풀이 링크         |
+| 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
-|2859|[설탕배달](https://www.acmicpc.net/problem/2839)|그리디|브론즈| ||
+|2859|[설탕배달](https://www.acmicpc.net/problem/2839)|그리디|bronze| [java](backjoon/problem/2839/java/Main.java)||
