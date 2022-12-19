@@ -8,6 +8,7 @@
 |4| [가장 많이 등장한 수](zerobase/problem/4) | 문자열 | easy | [python](zerobase/problem/4/solution.py)|
 |5| [BinaryNumber](zerobase/problem/5) | 수학 | easy |[python](zerobase/problem/5/solution.py)| 
 
+
 # Backjoon
 
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
