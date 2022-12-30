@@ -2,13 +2,13 @@
 
 
 
-# 프로그래머스
+**프로그래머스**
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
 |1|[타겟넘버](zerobase/problem/1) |DFS/BFS| Lv2 |[python](../programmers/43165/solution.py), [java](../programmers/43165/Solution.java)|
 
 
-# Backjoon
+**Backjoon**
 
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
